@@ -1,1 +1,3 @@
 page_2 of for chapter_2
+
+page_2 more information
