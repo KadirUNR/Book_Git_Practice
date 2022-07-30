@@ -1,0 +1,4 @@
+Local and Remote Repository
+● Practice committing and pushing
+● Add à Commit à Push workflow
+● More: Edit commit message, checkout commit
