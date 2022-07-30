@@ -1,4 +1,4 @@
 
-this is page 2
+PAGE 2
 - Red: file is un-versioned
 - Green: actively changed and ready to be part of a repository
